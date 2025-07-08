@@ -1,0 +1,8 @@
+pandas==2.3.0
+python-dotenv==1.1.0
+requests==2.32.3
+tqdm==4.67.1
+tavily-python==0.7.4
+openai==1.93.0
+pydantic==2.11.5
+openai-agents==0.1.0

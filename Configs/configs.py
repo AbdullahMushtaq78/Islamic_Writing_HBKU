@@ -1,0 +1,19 @@
+# PATHS
+BASE_PATH = "E:\\HBKU\\Evaluations\\"
+DATASET_PATH = "Dataset Copy"
+PROMPTS_PATH = "Prompts"
+QUALITATIVE_AGENT_PROMPT = "Qualitative_Agent_Prompt.md"
+QUANTITATIVE_AGENT_PROMPT = "Quantitative_Agent_Prompt.md"
+ENV_PATH = "environment.env"
+RESULTS_PATH = "Results"
+
+# MODELS
+QUANTITATIVE_MODEL = "gpt-4o"
+QUALITATIVE_MODEL = "gpt-4o-mini"
+TEMPERATURE = 0.0
+
+# TOOLS
+MAX_SEARCH_RESULTS = 3
+SEARCH_DEPTH = "advanced"
+MAX_TOOLS_CALLS = 50
+PARALLEL_TOOLS_CALLS = True
