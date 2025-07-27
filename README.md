@@ -1,4 +1,4 @@
-# Islamic_Writing_HBKU
+# Islamic Writing HBKU
 
 A private research codebase for computational analysis of Islamic writing using both qualitative and quantitative language-model agents.
 
@@ -38,8 +38,4 @@ The goal is to develop reproducible evaluation pipelines that aid researchers in
 * **Config Flags** – Adjust `model settings`, `paths`, and other settings via `Configs/configs.py`.
 
 ## Reproducing Figures
-Visualization scripts (forthcoming) will read JSON results and output publication-ready graphs into `Vis_Graphs/`.
-
-## Privacy & Licensing
-This repository is proprietary and contains HBKU-internal data. Do **not** redistribute code, data, or results outside authorized collaborators.
-
+Visualization scripts (forthcoming) will read JSON results and output graphs into `Vis_Graphs/`.
