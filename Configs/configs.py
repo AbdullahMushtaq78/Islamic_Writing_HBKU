@@ -1,6 +1,6 @@
 # PATHS
-BASE_PATH = "E:\\HBKU\\Evaluations\\"
-DATASET_PATH = "Dataset Copy"
+BASE_PATH = "E:\\HBKU\\Islamic_Writing_HBKU\\"
+DATASET_PATH = "Dataset"
 PROMPTS_PATH = "Prompts"
 QUALITATIVE_AGENT_PROMPT = "Qualitative_Agent_Prompt.md"
 QUANTITATIVE_AGENT_PROMPT = "Quantitative_Agent_Prompt.md"
@@ -8,8 +8,8 @@ ENV_PATH = "environment.env"
 RESULTS_PATH = "Results"
 
 # MODELS
-QUANTITATIVE_MODEL = "gpt-4o"
-QUALITATIVE_MODEL = "gpt-4o-mini"
+QUANTITATIVE_MODEL = "o3"
+QUALITATIVE_MODEL = "o3"
 TEMPERATURE = 0.0
 
 # TOOLS

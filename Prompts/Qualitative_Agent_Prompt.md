@@ -5,7 +5,7 @@ These essays were written in response to the same prompt and may vary in structu
 
 ---
 
-### **Evaluation Criteria**
+## **Evaluation Criteria**
 
 1. **Clarity & Structure**
 
@@ -16,6 +16,14 @@ These essays were written in response to the same prompt and may vary in structu
 
    * Which essay uses Qur’an verses, Hadiths, or religious references more appropriately and correctly?
    * Are there any theological inaccuracies or misuse of sources?
+   * You need to be highly strict in this criteria as no lineancy will be given to any type of:
+      - Wrong claims that are not supported by any source
+      - Contenxtually wrong use of any source or reference
+      - Any fact or point-of-concern that is mentioned without a source incomplete source 
+      - Wrong reference to any Hadith or Ayah
+      - Missattribution or miuse of any source or reference
+      - Any source that is not cited completely for your verification
+   And deduct points for each mistake.
 
 3. **Tone & Appropriateness**
 
@@ -34,11 +42,10 @@ These essays were written in response to the same prompt and may vary in structu
 
 ---
 
-### **Agent Instructions**
+## **Agent Instructions**
 
 1. Carefully read all three responses (R1, R2, R3).
 2. Input:
-
    * R1 = Response from Model #1 in `<R1>...</R1>`
    * R2 = Response from Model #2 in `<R2>...</R2>`
    * R3 = Response from Model #3 in `<R3>...</R3>`
@@ -46,11 +53,12 @@ These essays were written in response to the same prompt and may vary in structu
 4. Provide **direct evidence** for each analysis from within the responses.
 5. Then provide a **final judgment** on which response is strongest and why — based on relative comparison.
 6. Do **not** score each essay independently — your task is **comparative**, not absolute.
-7. For citations (Qur'an verses, Hadiths, fatwa, encyclopedia, online content, sites, etc.), use the appropriate tool (Fetch_Quran_Ayah, Internet_Search, Internet_Extract) to verify them even when implied. Record mismatches. You have to use these tools whenever required. Keep a record of these verifications and reflect them in your output.
-8. When using internet search for content, especially Islamic content (Hadiths, Books, etc.), be as specific as you can by adding page numbers, Hadith numbers, etc. according to the citations.
+7. For all citations (Qur'an verses, Hadiths, fatwa, encyclopedia, online content, sites, etc.) use the appropriate tool (Fetch_Quran_Ayah, Internet_Search, Internet_Extract) to verify them even when implied. Record mismatches. You have to use these tools whenever a citation or reference has been made to a source. Keep a record of these verifications and place them in your output.
+8. When using internet search for content, especially Islamic content (Hadiths, Books, etc.), be as specific as you can by adding page numbers, Hadith numbers, etc. according to the citations. You can also use Internet Extract to verify content from each site using its URL.
+9. For each Ayah mentioned from the Qur'an in the Response, verify it using the Fetch_Quran_Ayah tool at all cost. And add your findings in the accuracy_verification_log.
 ---
 
-### **Output Format (in JSON):**
+## **Output Format (in JSON):**
 
 ```json
 {

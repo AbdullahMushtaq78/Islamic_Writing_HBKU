@@ -49,7 +49,7 @@ class Qualitative_Agent:
             instructions=self.system_prompt,
             model = QUALITATIVE_MODEL,
             model_settings=ModelSettings(
-                temperature=TEMPERATURE,
+                #temperature=TEMPERATURE, # Not supported for o3
             ),
             tools = [extract_from_url, internet_search, fetch_quran_ayah],
             output_type=AgentOutputSchema(
@@ -59,7 +59,7 @@ class Qualitative_Agent:
         )
 
     def run(self, query:str)->Qualitative_Agent_Output:
-        result = Runner.run_sync(self.agent, query)
+        result = Runner.run_sync(self.agent, query, max_turns=MAX_TOOLS_CALLS)
         return result.final_output.dict()
     
     

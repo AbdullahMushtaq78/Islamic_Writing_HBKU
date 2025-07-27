@@ -1,21 +1,51 @@
-Prompt ID,Category,Prompt
-1,Classical,The Role of Sincerity in Islamic Worship
-2,Classical,The Wisdom Behind the Five Daily Prayers
-3,Classical,Understanding Qadr (Divine Decree): Balancing Faith and Free Will
-4,Classical,Why Modesty is Central to Islamic Character
-5,Classical,The Importance of Seeking Knowledge in Islam: A Historical Reflection
-6,Spiritual & Motivational,Staying Connected to Allah in Times of Hardship
-7,Spiritual & Motivational,How to Reignite Your Iman After a Period of Neglect
-8,Spiritual & Motivational,The Power of Dua: Trusting in Allah’s Timing
-9,Spiritual & Motivational,Balancing Dunya and Ākhirah as a Student or Professional
-10,Spiritual & Motivational,The Quiet Struggle: Building Consistency in Small Good Deeds
-11,Contemporary ,"How Can Muslims Navigate Digital Spaces Mindfully? Balancing Social Media Engagement, Online Modesty, and Authentic Faith Expression"
-12,Contemporary ,"What Does Islam Teach About Mental Health, Emotional Well-Being, and the Balance Between Productivity and Rest in Modern Life?"
-13,Contemporary ,"How Should Contemporary Muslims Approach Wealth, Privilege, and Environmental Responsibility Through an Islamic Lens?"
-14,Contemporary ,"What Does It Mean to Be a Visible Muslim in Public Spaces? Navigating Identity, Modesty, and Cultural Participation"
-15,Contemporary ,How Can Muslims Reconcile Traditional Islamic Teachings on Gender Roles with Modern Discourse and Contemporary Realities?
-16,Community,How to Remain Confident in Your Muslim Identity in a Secular Society
-17,Community,Islamic Brotherhood: Reviving a Lost Value in Our Communities
-18,Community,Why Jumah Is More Than Just a Weekly Ritual
-19,Community,The Role of Youth in Reviving the Islamic Ummah
-20,Community,Can Islamic Values Coexist with Modern Human Rights Frameworks?
+Prompt ID,Source,Category,Prompt
+1,https://thethinkingmuslim.com/2025/05/17/understanding-bidah-how-do-we-recognize-innovation-in-islam/,Jurisprudence (Fiqh),Understanding Bid‘ah: How Do We Recognize Innovation in Islam?
+2,https://thethinkingmuslim.com/2019/05/17/islamic-guidelines-on-investing-in-the-stock-market/,Jurisprudence (Fiqh),Islamic Guidelines on Investing in the Stock Market
+3,https://thethinkingmuslim.com/2018/02/03/wisdom-behind-the-%e1%b8%a5udud-laws-in-islam/,Jurisprudence (Fiqh),Wisdom Behind the Hudud Laws in Islam
+4,https://thethinkingmuslim.com/2015/10/27/summary-of-rulings-of-slaughter-udhiyyah-on-eid-al-adha/,Jurisprudence (Fiqh),Rulings on Slaughtering Animals (Udhiyyah) on Eid Al-Adha
+5,https://yaqeeninstitute.org/read/post/is-voting-haram-the-islamic-ruling-on-elections,Jurisprudence (Fiqh),Is Voting Haram? The Islamic Ruling on Elections
+6,https://yaqeeninstitute.org/read/post/a-guide-to-istikhara-the-prayer-for-guidance,Jurisprudence (Fiqh),"A Guide to Istikhara, the Prayer for Guidance"
+7,https://fiqh.islamonline.net/en/indulging-in-the-life-of-this-world/,Jurisprudence (Fiqh),Indulging in the life of this world
+8,https://fiqh.islamonline.net/en/category/etiquettes-and-morals/islamic-morals-and-conducts/,Jurisprudence (Fiqh),Visiting relatives who indulge in backbiting
+9,https://fiqh.islamonline.net/en/category/etiquettes-and-morals/islamic-morals-and-conducts/,Jurisprudence (Fiqh),Gloating over Someone’s Grief or Misfortunes
+10,https://fiqh.islamonline.net/en/category/etiquettes-and-morals/islamic-morals-and-conducts/,Jurisprudence (Fiqh),Colliding Cups with Each Other like the drinkers
+11,https://thethinkingmuslim.com/2025/04/27/understanding-naskh-abrogation-in-the-quran-a-deep-dive-into-a-misunderstood-concept/,Quran Exegesis (Tafsir),Understanding Naskh (Abrogation) in the Quran: A Deep Dive into a Misunderstood Concept
+12,https://thethinkingmuslim.com/2024/03/20/contextualizing-quran-262-does-it-advocate-for-religious-pluralism/,Quran Exegesis (Tafsir),Contextualizing Quran 2:62: Does It Advocate for Religious Pluralism?
+13,https://thethinkingmuslim.com/2023/04/09/what-did-prophet-yaqub-jacob-mean-by-beautiful-patience/,Quran Exegesis (Tafsir),What Did Prophet Yaqub (Jacob) Mean by ‘Beautiful Patience’?
+14,https://thethinkingmuslim.com/2020/10/12/was-the-universe-created-in-just-six-days/,Quran Exegesis (Tafsir),Was the Universe Created in Just Six Days?
+15,https://thethinkingmuslim.com/2019/07/17/surah-al-ikhlas-a-brief-explanation/,Quran Exegesis (Tafsir),Surah Al-Ikhlas: A Brief Explanation
+16,https://thethinkingmuslim.com/2015/12/30/evidences-for-the-obligation-of-a-muslim-womans-headscarf-khimar-outer-garment-jilbaab/,Quran Exegesis (Tafsir),Evidences for the Obligation of a Muslim Woman’s Headscarf (Khimar) & Outer Garment (Jilbaab)
+17,https://thethinkingmuslim.com/2013/12/31/lessons-from-the-story-of-moses-and-al-khadir/,Quran Exegesis (Tafsir),Lessons from the Story of Moses and Al-Khidhr
+18,https://yaqeeninstitute.org/read/post/living-with-purpose-the-powerful-meaning-of-the-basmala,Quran Exegesis (Tafsir),Living with Purpose: The Powerful Meaning of the Basmala
+19,https://yaqeeninstitute.org/read/post/virtues-of-ayatul-kursi-the-greatest-verse-in-the-quran,Quran Exegesis (Tafsir),Virtues of Ayatul Kursi: The Greatest Verse in the Quran
+20,https://yaqeeninstitute.org/read/post/why-is-allah-referred-to-as-he-in-the-quran,Quran Exegesis (Tafsir),"Why is Allah Referred to as ""He"" in the Quran?"
+21,https://thethinkingmuslim.com/2024/08/22/why-we-need-prophets-a-rational-case-for-divine-guidance-in-islam/,Theology (Aqidah),Why We Need Prophets: A Rational Case for Divine Guidance in Islam
+22,https://thethinkingmuslim.com/2021/03/23/the-fine-line-between-belief-emaan-and-disbelief-kufr-in-islam/,Theology (Aqidah),The Fine Line Between Belief (Emaan) and Disbelief (Kufr) in Islam
+23,https://yaqeeninstitute.org/read/post/what-are-we-worth-redefining-muslim-value-with-dignity-and-honor-blog,Theology (Aqidah),What Are We Worth? Redefining Muslim Value with Dignity and Honor
+24,https://yaqeeninstitute.org/read/post/finding-hope-in-allahs-mercy-and-forgiveness-understanding-the-name-at-tawwab,Theology (Aqidah),Finding Hope in Allah's Mercy and Forgiveness: Understanding the Name At-Tawwab
+25,https://yaqeeninstitute.org/read/post/pursuing-yaqeen-how-to-build-unshakeable-faith-and-trust-in-god,Theology (Aqidah),Pursuing Yaqeen: How to Build Unshakeable Faith and Trust in God
+26,https://yaqeeninstitute.org/read/post/why-our-perception-of-god-matters,Theology (Aqidah),Why Our Perception of God Matters
+27,https://yaqeeninstitute.org/read/post/freedom-through-surrender-overcoming-the-ego-and-finding-peace-in-islam,Theology (Aqidah),Freedom through Surrender: Overcoming the Ego and Finding Peace in Islam
+28,https://seekersguidance.org/articles/featured-articles/the-miraculous-night-journey-isra-and-miraj-a-path-to-true-nearness/,Theology (Aqidah),The Miraculous Night Journey (Isra and Miraj): A Path to True Nearness
+29,https://islamonline.net/en/becoming-servants-of-the-most-merciful-5-o-allah-protect-us-from-ourselves-2/,Theology (Aqidah),"Becoming Servants of the Most Merciful – O Allah, Protect Us from Ourselves"
+30,https://islamonline.net/139366,Theology (Aqidah),Fulfilling People’s Needs: A Noble Act of Worship in Islam
+31,https://thethinkingmuslim.com/2015/04/21/hadith-the-religion-is-sincere-advice-a-brief-explanation/,Hadith (Ulum al-Hadith),Hadith: “The Religion is Sincerity.” – A Brief Explanation
+32,https://thethinkingmuslim.com/2013/01/26/ruling-on-acting-on-weak-hadiths/,Hadith (Ulum al-Hadith),Ruling on Acting on Weak Hadiths
+33,https://thethinkingmuslim.com/2012/05/22/he-would-provide-for-you-as-he-provides-for-the-birds-ibn-uthyameen-explains/,Hadith (Ulum al-Hadith),Hadith: “He would provide for you as He provides for the birds”
+34,https://thethinkingmuslim.com/2021/05/12/hadith-explained-deeds-which-remove-sins/,Hadith (Ulum al-Hadith),Hadith Explained: “Deeds Which Remove Sins”
+35,https://thethinkingmuslim.com/2019/06/06/hadith-explained-the-sun-prostrates-under-the-throne-and-takes-permission-to-rise-again/,Hadith (Ulum al-Hadith),Hadith Explained: “The Sun Prostrates Under the Throne and Takes Permission to Rise Again”
+36,https://yaqeeninstitute.org/read/post/the-role-of-islamic-scholars-in-modern-society,Hadith (Ulum al-Hadith),The Role of Islamic Scholars in Modern Society
+37,https://thethinkingmuslim.com/2017/07/10/hadith-of-ghuraba-who-are-the-strangers/,Hadith (Ulum al-Hadith),Hadith of Ghuraba: Who Are the Strangers?
+38,https://ulumalhadith.com/misapplication-of-a-discipline-using-laws-of-jar%e1%b8%a5-to-criticize-scholars/,Hadith (Ulum al-Hadith),Misapplication of a Discipline – Using Laws of Jarḥ to Criticize Scholars
+39,https://ulumalhadith.com/the-importance-of-engaging-in-advanced-studies-in-the-sciences-of-%e1%b8%a5adith/,Hadith (Ulum al-Hadith),The Importance of Engaging in Advanced Studies in the Sciences of Hadith
+40,https://ulumalhadith.com/the-preservation-and-compilation-of-the-noble-%e1%b8%a5adith/,Hadith (Ulum al-Hadith),The Preservation and Compilation of the Noble Hadith
+41,https://yaqeeninstitute.org/read/post/struggling-to-pray-how-to-wake-up-for-fajr,Spiritual Conduct (Adab),Struggling to Pray? How to Wake Up for Fajr
+42,https://yaqeeninstitute.org/read/post/five-tips-to-manage-your-anger-in-islam,Spiritual Conduct (Adab),Five Tips to Manage your Anger in Islam
+43,https://yaqeeninstitute.org/read/post/duas-to-relieve-stress-and-anxiety,Spiritual Conduct (Adab),Duas to Relieve Stress and Anxiety
+44,https://yaqeeninstitute.org/read/post/hope-and-healing-supplications-for-a-loved-one-who-passed-away,Spiritual Conduct (Adab),Hope and Healing: Supplications for a Loved One Who Passed Away
+45,https://yaqeeninstitute.org/read/post/parents-guide-to-praying-for-children-10-powerful-duas,Spiritual Conduct (Adab),Parents' Guide to Praying for Children: 10 Powerful Duas
+46,https://yaqeeninstitute.org/read/post/important-duas-and-dhikr-for-the-day-of-arafah,Spiritual Conduct (Adab),Important Duas and Dhikr for the Day of  Arafah
+47,https://yaqeeninstitute.org/read/post/10-ways-to-maximize-your-worship-in-the-last-10-nights-of-ramadan,Spiritual Conduct (Adab),10 Ways to Maximize Your Worship in the Last 10 Nights of Ramadan
+48,https://yaqeeninstitute.org/read/post/virtues-of-shaban-how-to-prepare-for-ramadan-spiritually,Spiritual Conduct (Adab),Virtues of Shaban: How to Prepare for Ramadan Spiritually
+49,https://yaqeeninstitute.org/read/post/the-power-of-a-positive-home-environment-what-the-research-says,Spiritual Conduct (Adab),The Power of a Positive Home Environment: What the Research Says
+50,https://yaqeeninstitute.org/read/post/how-do-i-ask-allah-for-forgiveness,Spiritual Conduct (Adab),How Do I Ask Allah for Forgiveness?

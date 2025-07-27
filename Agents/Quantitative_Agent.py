@@ -51,7 +51,7 @@ class Quantitative_Agent:
             instructions=self.system_prompt,
             model=QUANTITATIVE_MODEL,
             model_settings=ModelSettings(
-                temperature=TEMPERATURE,
+                #temperature=TEMPERATURE, # Not supported for o3
                 #parallel_tool_calls=PARALLEL_TOOLS_CALLS,
             ),
             tools = [extract_from_url, internet_search, fetch_quran_ayah],
