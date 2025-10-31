@@ -2,7 +2,7 @@
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-blue)](https://neurips.cc/)
 [![Workshop](https://img.shields.io/badge/Workshop-Muslims%20in%20ML-green)](https://www.musiml.org/)
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](http://arxiv.org/abs/2510.24438)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,8 +12,8 @@
 
 ## Authors
 
-**Abdullah Mushtaq**¹ · **Rafay Naeem**¹ · **Ezieddin Elmahjub**² · **Ibrahim Ghaznavi**¹
-**Shawqi Al-Maliki**³ · **Mohamed Abdallah**³ · **Ala Al-Fuqaha**³ · **Junaid Qadir**²
+**Abdullah Mushtaq**¹ · Rafay Naeem¹ · Ezieddin Elmahjub² · Ibrahim Ghaznavi¹
+Shawqi Al-Maliki³ · Mohamed Abdallah³ · Ala Al-Fuqaha³ · Junaid Qadir²
 
 ¹Information Technology University · ²Qatar University · ³Hamad Bin Khalifa University
 
@@ -215,7 +215,7 @@ These tools enable:
 
 ## Citation
 
-If you use this work in your research, please cite:
+If you find this work useful in your work, please consider citing our paper:
 
 ```bibtex
 @inproceedings{mushtaq2025faithfully,
@@ -224,20 +224,17 @@ If you use this work in your research, please cite:
   booktitle={5th Muslims in Machine Learning Workshop at Neural Information Processing Systems},
   year={2025},
   organization={NeurIPS},
-  note={Workshop Paper},
-  url={https://github.com/AbdullahMushtaq78/Islamic_Writing_HBKU},
+  url={http://arxiv.org/abs/2510.24438},
   archivePrefix={arXiv},
-  eprint={XXXX.XXXXX}
+  eprint={2510.24438}
 }
 ```
-
-**Note**: Once the paper is available on arXiv, the BibTeX entry will be updated with the arXiv identifier and DOI.
 
 ---
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ---
 
@@ -255,11 +252,4 @@ For questions, suggestions, or collaborations:
 
 ---
 
-## Related Work
-
-- **Ansari AI**: [GitHub Repository](https://github.com/AnsariAI)
-- **Fanar LLM**: [Team 2025 Publication](https://arxiv.org/abs/2501.xxxxx)
-
----
-
-**Built with dedication to advancing reliable AI for faith-sensitive knowledge domains.**
+**Built with dedication to advancing reliable and explainable AI for faith-sensitive knowledge domains.**
